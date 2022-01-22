@@ -338,7 +338,7 @@ print(flag)
 
 ![](img/apk.jpeg)
 
-- We can use `apktool` but I used [this](http://www.javadecompilers.com/) website quite useful.
+- We can use `apktool`, but I used [this](http://www.javadecompilers.com/) awesome website.
 
 - After decompiling it, under __sources > org > knightsquad > droidflag__, I decompiled the `MainActivity.java` and found this statement:
 
